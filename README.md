@@ -1,4 +1,4 @@
-# alfapartner
+# grid-demo
 
 ## Project setup
 ```
